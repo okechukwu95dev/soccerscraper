@@ -188,7 +188,7 @@ LEAGUE_DICT = {
     },
     "ENG-Championship": {
         "Sofascore": "Championship",
-        "WhoScored": "England - Premier League",
+        "WhoScored": "England - Championship",
         "season_start": "Aug",
         "season_end": "Jun",
     },
